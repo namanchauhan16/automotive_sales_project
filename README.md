@@ -30,9 +30,7 @@ This project demonstrates concepts like:
 
 _Add your architecture image here_
 
-```md
-![Architecture Diagram](architecture/project_architecture.png)
-```
+![Architecture Diagram](images/Automotive_sales_Architecture_Diagram.png)
 
 ---
 
