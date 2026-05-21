@@ -28,8 +28,6 @@ This project demonstrates concepts like:
 
 # Architecture Diagram
 
-_Add your architecture image here_
-
 ![Architecture Diagram](images/Automotive_sales_Architecture_Diagram.png)
 
 ---
